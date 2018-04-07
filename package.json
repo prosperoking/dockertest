@@ -1,0 +1,22 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "This is a test about docker on windows",
+  "main": "app.js",
+  "repository": {
+    
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Docker",
+    "express",
+    "node"
+  ],
+  "author": "Prosper",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
